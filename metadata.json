@@ -1,0 +1,8 @@
+{
+  "name": "Beep Test Voice Changer & Studio",
+  "description": "Record and customize the Multi-Stage Fitness Test (Beep Test) audio with your own voice, live runner tracking, audio exporter, and custom vocal cues.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
